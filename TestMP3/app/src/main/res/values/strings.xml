@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMP3</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="perm_camera">Se necesitan permisos para esta aplicación</string>
+
+</resources>
